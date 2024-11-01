@@ -1,0 +1,10 @@
+Package: com.iosrxwy.QQMusicNoAds
+Name: QQMusicNoAds
+Version: 0.1-0
+Description: QQ音乐全局去广告，解锁至臻音质
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Priority: optional
+Author: iosrxwy
+Homepage:https://t.me/iosrxwy
+Architecture: iphoneos-arm64
